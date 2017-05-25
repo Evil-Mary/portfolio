@@ -59,7 +59,7 @@ In general, most styles on the page are based off the definitions of variables i
 
 ```SCSS
 // Define base and accent colors
-$base-color: ##ed7d31;
+$base-color: #ed7d31;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
